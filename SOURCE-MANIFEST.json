@@ -1,0 +1,96 @@
+{
+  "sources": [
+    {
+      "repo": "jaredwilder/erdos-campaign-archive",
+      "commit": "dad8bf3925ec7584a2e782b06e102e54587c2094"
+    },
+    {
+      "repo": "jaredwilder/erdos-findings-ledger",
+      "commit": "8d452e5049be4e25aec191ea6c496f72c7c56d11"
+    }
+  ],
+  "source_prefix": "campaign + corrected proof note",
+  "files": [
+    {
+      "source_repo": "jaredwilder/erdos-campaign-archive",
+      "source_commit": "dad8bf3925ec7584a2e782b06e102e54587c2094",
+      "source_path": "campaigns/erdos1192-campaign-001/contract.json",
+      "destination": "research/campaign/contract.json",
+      "source_blob": "67394943b2a521ee72aa023e45726a937739a28c",
+      "sha256": "c0e8719c3ce5daf1e18e069aaca97d968549737c18ffb264e987e16a84cfd5b4",
+      "bytes": 8894
+    },
+    {
+      "source_repo": "jaredwilder/erdos-campaign-archive",
+      "source_commit": "dad8bf3925ec7584a2e782b06e102e54587c2094",
+      "source_path": "campaigns/erdos1192-campaign-001/results.json",
+      "destination": "research/campaign/results.json",
+      "source_blob": "3bd6202d08a158be2daf41669e5c90f3c0874286",
+      "sha256": "e4e92184ff2dc96ad41547fc723675ec480bba45817f5132c7b3f244f8cf494d",
+      "bytes": 156326
+    },
+    {
+      "source_repo": "jaredwilder/erdos-campaign-archive",
+      "source_commit": "dad8bf3925ec7584a2e782b06e102e54587c2094",
+      "source_path": "campaigns/erdos1192-campaign-001/campaign-log.json",
+      "destination": "research/campaign/campaign-log.json",
+      "source_blob": "28bccedfd74ab6dc179bdc79d066177ab3842ee9",
+      "sha256": "e19a65781252a09e1d5867b364247b368d8688eef9d2fe594f8f39848aafe313",
+      "bytes": 155836
+    },
+    {
+      "source_repo": "jaredwilder/erdos-campaign-archive",
+      "source_commit": "dad8bf3925ec7584a2e782b06e102e54587c2094",
+      "source_path": "campaigns/erdos1192-campaign-001/routes/registry.jsonl",
+      "destination": "research/campaign/routes/registry.jsonl",
+      "source_blob": "e396450397c594986e1b857c2bcde2a2a01f6510",
+      "sha256": "f09215445e119243a1319a9b0f74397246f2879f562b8ae2d2f47ef5c6a40770",
+      "bytes": 54507
+    },
+    {
+      "source_repo": "jaredwilder/erdos-campaign-archive",
+      "source_commit": "dad8bf3925ec7584a2e782b06e102e54587c2094",
+      "source_path": "campaigns/erdos1192-campaign-001/transcript.jsonl",
+      "destination": "research/campaign/transcript.jsonl",
+      "source_blob": "33840aba510f9f3b8e9fe7dade558b7247b55264",
+      "sha256": "b59b17621bcdd7055567b619ebdd5c9b98dab8bd8cf25e4bc5ddc43f11f5fa89",
+      "bytes": 501215
+    },
+    {
+      "source_repo": "jaredwilder/erdos-campaign-archive",
+      "source_commit": "dad8bf3925ec7584a2e782b06e102e54587c2094",
+      "source_path": "campaigns/erdos1192-campaign-001/transfer-evidence.json",
+      "destination": "research/campaign/transfer-evidence.json",
+      "source_blob": "a892d9c2ac1a207cc310a3dd097241de1518122b",
+      "sha256": "b1d9f2ae18795e8795bf62991217e9b9ec6e09b5813fe98b254fe37e1b92e991",
+      "bytes": 7358
+    },
+    {
+      "source_repo": "jaredwilder/erdos-findings-ledger",
+      "source_commit": "8d452e5049be4e25aec191ea6c496f72c7c56d11",
+      "source_path": "findings/erdos-1192-energy-floor-and-density-ceiling.md",
+      "destination": "research/erdos-1192-energy-floor-and-density-ceiling.md",
+      "source_blob": "c791e92561ed3b96f404523d4ae83dfe42537826",
+      "sha256": "4ac74227957059e6ecfb5bd94bcc6119bc142f2123d10770c6fe6a664b94a6e1",
+      "bytes": 4368
+    },
+    {
+      "source_repo": "jaredwilder/erdos-campaign-archive",
+      "source_commit": "dad8bf3925ec7584a2e782b06e102e54587c2094",
+      "source_path": "LICENSE",
+      "destination": "LICENSE",
+      "source_blob": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "bytes": 11358
+    },
+    {
+      "source_repo": "jaredwilder/erdos-findings-ledger",
+      "source_commit": "8d452e5049be4e25aec191ea6c496f72c7c56d11",
+      "source_path": "LICENSE",
+      "destination": "research/source-metadata/LICENSE-erdos-findings-ledger",
+      "source_blob": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "bytes": 11358
+    }
+  ]
+}

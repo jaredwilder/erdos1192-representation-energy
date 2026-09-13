@@ -1,0 +1,8 @@
+{
+  "date": "2026-09-13",
+  "byte_integrity": {
+    "result": "PASS",
+    "source_files": 9
+  },
+  "fresh_lean_build": false
+}
